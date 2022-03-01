@@ -1,0 +1,65 @@
+13:45:12:INFO:>>> REGISTER sip:10.10.41.101 SIP/2.0
+13:45:12:INFO:From: iph@10.10.41.101 - Contact: 10.10.41.62:63454
+13:45:12:INFO:<<< SIP/2.0 200 0KAY
+13:45:19:INFO:>>> REGISTER sip:10.10.41.101 SIP/2.0
+13:45:19:INFO:From: luk@10.10.41.101 - Contact: 10.10.41.101:50850
+13:45:19:INFO:<<< SIP/2.0 200 0KAY
+13:45:19:INFO:>>> PUBLISH sip:luk@10.10.41.101 SIP/2.0
+13:45:19:INFO:<<< SIP/2.0 200 0KAY
+13:45:24:INFO:>>> INVITE sip:iph@10.10.41.101 SIP/2.0
+13:45:24:INFO:destination iph@10.10.41.101
+13:45:24:INFO:<<< INVITE sip:iph@10.10.41.101 SIP/2.0
+13:45:24:INFO:>>> SIP/2.0 100 Skusam
+13:45:24:INFO:1<<< SIP/2.0 100 Skusam
+13:45:24:INFO:>>> SIP/2.0 180 Ringing
+13:45:24:INFO:1<<< SIP/2.0 180 Ringing
+13:45:27:INFO:>>> SIP/2.0 603 Decline
+13:45:27:INFO:1<<< SIP/2.0 603 Decline
+13:45:27:INFO:>>> ACK sip:iph@10.10.41.101 SIP/2.0
+13:45:27:INFO:destination iph@10.10.41.101
+13:45:27:INFO:<<< ACK sip:iph@10.10.41.101 SIP/2.0
+13:45:32:INFO:>>> INVITE sip:luk@10.10.41.101 SIP/2.0
+13:45:32:INFO:destination luk@10.10.41.101
+13:45:32:INFO:<<< INVITE sip:luk@10.10.41.101 SIP/2.0
+13:45:32:INFO:>>> SIP/2.0 100 Skusam
+13:45:32:INFO:1<<< SIP/2.0 100 Skusam
+13:45:33:INFO:>>> SIP/2.0 180 Ringing
+13:45:33:INFO:1<<< SIP/2.0 180 Ringing
+13:45:35:INFO:>>> SIP/2.0 603 Decline
+13:45:35:INFO:1<<< SIP/2.0 603 Decline
+13:45:35:INFO:>>> ACK sip:luk@10.10.41.101 SIP/2.0
+13:45:35:INFO:destination luk@10.10.41.101
+13:45:35:INFO:<<< ACK sip:luk@10.10.41.101 SIP/2.0
+13:46:26:INFO:Tue, 01 Mar 2022 13:46:26 
+13:46:26:INFO:LAPTOP-AUK2FT0N
+13:46:26:INFO:10.10.41.101
+13:46:27:INFO:>>> REGISTER sip:10.10.41.101 SIP/2.0
+13:46:27:INFO:From: iph@10.10.41.101 - Contact: 10.10.41.62:63454
+13:46:27:INFO:<<< SIP/2.0 200 0KAY
+13:46:33:INFO:>>> REGISTER sip:10.10.41.101 SIP/2.0
+13:46:33:INFO:From: luk@10.10.41.101 - Contact: 10.10.41.101:62132
+13:46:33:INFO:<<< SIP/2.0 200 0KAY
+13:46:33:INFO:>>> PUBLISH sip:luk@10.10.41.101 SIP/2.0
+13:46:33:INFO:<<< SIP/2.0 200 0KAY
+13:46:35:INFO:>>> INVITE sip:iph@10.10.41.101 SIP/2.0
+13:46:35:INFO:destination iph@10.10.41.101
+13:46:35:INFO:<<< INVITE sip:iph@10.10.41.101 SIP/2.0
+13:46:36:INFO:>>> SIP/2.0 100 Skusam
+13:46:36:INFO:1<<< SIP/2.0 100 Skusam
+13:46:36:INFO:>>> SIP/2.0 180 Ringing
+13:46:36:INFO:1<<< SIP/2.0 180 Ringing
+13:46:38:INFO:>>> SIP/2.0 200 Ok
+13:46:38:INFO:1<<< SIP/2.0 200 Ok
+13:46:39:INFO:>>> SIP/2.0 200 Ok
+13:46:39:INFO:1<<< SIP/2.0 200 Ok
+13:46:39:INFO:>>> ACK sip:iph@10.10.41.62:63454;pn-prid=6B5DE60C3E6B9A788C350377B89AC4545993F76BDFD19CBBC40F1AAE2825EE31:voip&38F4DB56ED494EF74D4F9B92C7F0BD870292987FBC25E10BE0C46653A1F9AA52:remote;pn-provider=apns;pn-param=ABCD1234.org.linphone.phone.voip;pn-silent=1;pn-timeout=0;pn-msg-str=IM_MSG;pn-call-str=IC_MSG;pn-groupchat-str=GC_MSG;pn-call-snd=notes_of_the_optimistic.caf;pn-msg-snd=msg.caf;transport=udp SIP/2.0
+13:46:39:INFO:destination iph@10.10.41.101
+13:46:39:INFO:<<< ACK sip:iph@10.10.41.62:63454;pn-prid=6B5DE60C3E6B9A788C350377B89AC4545993F76BDFD19CBBC40F1AAE2825EE31:voip&38F4DB56ED494EF74D4F9B92C7F0BD870292987FBC25E10BE0C46653A1F9AA52:remote;pn-provider=apns;pn-param=ABCD1234.org.linphone.phone.voip;pn-silent=1;pn-timeout=0;pn-msg-str=IM_MSG;pn-call-str=IC_MSG;pn-groupchat-str=GC_MSG;pn-call-snd=notes_of_the_optimistic.caf;pn-msg-snd=msg.caf;transport=udp SIP/2.0
+13:46:39:INFO:>>> ACK sip:iph@10.10.41.62:63454;pn-prid=6B5DE60C3E6B9A788C350377B89AC4545993F76BDFD19CBBC40F1AAE2825EE31:voip&38F4DB56ED494EF74D4F9B92C7F0BD870292987FBC25E10BE0C46653A1F9AA52:remote;pn-provider=apns;pn-param=ABCD1234.org.linphone.phone.voip;pn-silent=1;pn-timeout=0;pn-msg-str=IM_MSG;pn-call-str=IC_MSG;pn-groupchat-str=GC_MSG;pn-call-snd=notes_of_the_optimistic.caf;pn-msg-snd=msg.caf;transport=udp SIP/2.0
+13:46:39:INFO:destination iph@10.10.41.101
+13:46:39:INFO:<<< ACK sip:iph@10.10.41.62:63454;pn-prid=6B5DE60C3E6B9A788C350377B89AC4545993F76BDFD19CBBC40F1AAE2825EE31:voip&38F4DB56ED494EF74D4F9B92C7F0BD870292987FBC25E10BE0C46653A1F9AA52:remote;pn-provider=apns;pn-param=ABCD1234.org.linphone.phone.voip;pn-silent=1;pn-timeout=0;pn-msg-str=IM_MSG;pn-call-str=IC_MSG;pn-groupchat-str=GC_MSG;pn-call-snd=notes_of_the_optimistic.caf;pn-msg-snd=msg.caf;transport=udp SIP/2.0
+13:46:42:INFO:>>> BYE sip:luk@10.10.41.101:62132;transport=udp SIP/2.0
+13:46:42:INFO:destination luk@10.10.41.101
+13:46:42:INFO:<<< BYE sip:luk@10.10.41.101:62132;transport=udp SIP/2.0
+13:46:42:INFO:>>> SIP/2.0 200 Ok
+13:46:42:INFO:1<<< SIP/2.0 200 Ok

@@ -1,0 +1,27 @@
+
+Sun Feb 27 14:36:08 2022 #Dennik: Hovor pouzivatela lukym@10.10.41.101 odmietnuty pouzivatelom iph@10.10.41.101
+Sun Feb 27 14:36:56 2022 #Dennik: Hovor medzi lukym@10.10.41.101 a iph@10.10.41.101
+Sun Feb 27 14:37:03 2022 #Dennik: Hovor s lukym@10.10.41.101 bol ukonceny pouzivatelom iph@10.10.41.101
+Sun Feb 27 14:38:06 2022 #Dennik: Hovor medzi lukym@10.10.41.101 a iph@10.10.41.101
+Sun Feb 27 14:38:06 2022 #Dennik: Hovor medzi lukym@10.10.41.101 a iph@10.10.41.101
+Sun Feb 27 14:38:14 2022 #Dennik: Hovor s lukym@10.10.41.101 bol ukonceny pouzivatelom iph@10.10.41.101
+Sun Feb 27 14:40:01 2022 #Dennik: Hovor medzi iph@10.10.41.101 a lukym@10.10.41.101
+Sun Feb 27 14:40:08 2022 #Dennik: Hovor s iph@10.10.41.101 bol ukonceny pouzivatelom lukym@10.10.41.101
+Sun Feb 27 14:41:33 2022 #Dennik: Hovor medzi iph@10.10.41.101 a lukym@10.10.41.101
+Sun Feb 27 14:41:36 2022 #Dennik: Hovor medzi iph@10.10.41.101 a lukym@10.10.41.101
+Sun Feb 27 14:41:49 2022 #Dennik: Hovor s iph@10.10.41.101 bol ukonceny pouzivatelom lukym@10.10.41.101
+Sun Feb 27 14:43:22 2022 #Dennik: Hovor medzi ntb@10.10.41.101 a lukym@10.10.41.101
+Sun Feb 27 14:43:22 2022 #Dennik: Hovor medzi ntb@10.10.41.101 a iph@10.10.41.101
+Sun Feb 27 14:43:38 2022 #Dennik: Hovor s lukym@10.10.41.101 bol ukonceny pouzivatelom ntb@10.10.41.101
+Sun Feb 27 14:43:38 2022 #Dennik: Hovor s iph@10.10.41.101 bol ukonceny pouzivatelom ntb@10.10.41.101
+Sun Feb 27 14:44:31 2022 #Dennik: Hovor medzi ntb@10.10.41.101 a iph@10.10.41.101
+Sun Feb 27 14:44:45 2022 #Dennik: Hovor medzi ntb@10.10.41.101 a iph@10.10.41.101
+Sun Feb 27 14:44:47 2022 #Dennik: Hovor medzi ntb@10.10.41.101 a lukym@10.10.41.101
+Sun Feb 27 14:44:50 2022 #Dennik: Hovor s ntb@10.10.41.101 bol ukonceny pouzivatelom iph@10.10.41.101
+Sun Feb 27 14:45:02 2022 #Dennik: Hovor s lukym@10.10.41.101 bol ukonceny pouzivatelom ntb@10.10.41.101
+Sun Feb 27 16:08:34 2022 #Dennik: Hovor pouzivatela iph@10.10.41.101 odmietnuty pouzivatelom luk@10.10.41.101
+Tue Mar  1 13:45:27 2022 #Dennik: Hovor pouzivatela luk@10.10.41.101 odmietnuty pouzivatelom iph@10.10.41.101
+Tue Mar  1 13:45:35 2022 #Dennik: Hovor pouzivatela iph@10.10.41.101 odmietnuty pouzivatelom luk@10.10.41.101
+Tue Mar  1 13:46:38 2022 #Dennik: Hovor medzi luk@10.10.41.101 a iph@10.10.41.101
+Tue Mar  1 13:46:39 2022 #Dennik: Hovor medzi luk@10.10.41.101 a iph@10.10.41.101
+Tue Mar  1 13:46:42 2022 #Dennik: Hovor s luk@10.10.41.101 bol ukonceny pouzivatelom iph@10.10.41.101
